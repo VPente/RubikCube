@@ -1,0 +1,37 @@
+PROBLEMA
+
+	A falta de pontos fixos de venda em eventos que ocorrem em cidades distantes.
+	Máquinas de vendas convencionais são grandes e pesadas o que dificulta o transporte fazendo com que oportunidades de vendas em eventos sejam perdidas para isso a nossa solução propõem um projeto de máquina de vendas automática portátil onde que é facilmente carregada de evento em evento trazendo assim uma maior eficiência e maiores oportunidades, abaixo será documentado as etapas e processos para o desenvolvimento do MVP desta solução
+Abaixo o
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Realizada montagem de testes em protoboard da ideia do projeto
+Criado código utilizando o freRtos que com um botão ligava a esteira que era desligada quando um objeto/produto passava na frente do sensor
+Feito primeiro protótipo de madeira que ficou muito pesado, colocado um motor mais potente para compensar porém não foi possível controlar o mesmo.
+
+ 
+Criado outro protótipo com cano de pvc, barra roscada, roletes, madeira e porcas.
+ 
+
+Após isso montado os circuitos, realizado os testes na esteira
+ 
+
+Acoplada esteira em um protótipo de máquina.
+
+
+ 
+Utilizamos da biblioteca wifimaneger para conectar as esteiras ao wifi
+ 
+ que está sendo gerado pelo esp central que serve apenas para gerar uma rede wifi.
+
