@@ -1,14 +1,21 @@
-PROBLEMA
-
+								PROBLEMA
 	A falta de pontos fixos de venda em eventos que ocorrem em cidades distantes.
-	Máquinas de vendas convencionais são grandes e pesadas o que dificulta o transporte fazendo com que oportunidades de vendas em eventos sejam perdidas para isso a nossa solução propõem um projeto de máquina de vendas automática portátil onde que é facilmente carregada de evento em evento trazendo assim uma maior eficiência e maiores oportunidades, abaixo será documentado as etapas e processos para o desenvolvimento do MVP desta solução
-Abaixo o
+	Máquinas de vendas convencionais são grandes e pesadas o que dificulta o transporte fazendo com que oportunidades de vendas em eventos 
+sejam perdidas para isso a nossa solução propõem um projeto de máquina de vendas automática portátil onde que é facilmente carregada de evento 
+em evento trazendo assim uma maior eficiência e maiores oportunidades, abaixo será documentado as etapas e processos para o desenvolvimento do MVP desta solução
+Abaixo o Diagrama de arquitetura da mesma:
+
+<img src="/assets/img/DiagramArq.png">
 
 
 
  
-
-
+Listas de Componentes utilizados na maquete
+- 3 ESP32
+- 2 Motores de Passo 28byj-48 
+- 2 Controladores de Motor de passo Driver Uln2003 Arduino Robótica/nf
+- 2 Sensores Ultrassonicos Hc-Sr04
+- 1 Fonte 5V 
 
 
 
